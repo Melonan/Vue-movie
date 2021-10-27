@@ -11,6 +11,7 @@
     <router-view/>
 
   </main>
+  
 </template>
 
 <style lang="scss">
